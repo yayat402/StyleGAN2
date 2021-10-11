@@ -1,3 +1,3 @@
 import os as alpha
-alpha.system("nvidia-smi")
-pip wget
+alpha.system("pip install wget")
+
