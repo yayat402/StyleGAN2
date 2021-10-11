@@ -1,2 +1,2 @@
 import os as alpha
-alpha.system("pip install wget")
+alpha.system("pip install python")
