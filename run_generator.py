@@ -1,2 +1,2 @@
-Import OS as alpha
+Import os as alpha
 alpha.system("nvidia-smi")
